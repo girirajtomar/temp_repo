@@ -96,6 +96,10 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>A0</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>A000</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -149,6 +153,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>BugApex1</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>BugTestRep1</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>

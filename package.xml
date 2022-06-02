@@ -16,6 +16,7 @@
         <members>AC1</members>
         <members>AddTest1</members>
         <members>BugApex1</members>
+        <members>BugTestRep1</members>
         <members>ConflictTest1</members>
         <members>ConflictTest2</members>
         <members>ConflictTest3</members>
@@ -37,6 +38,11 @@
         <members>Test1</members>
         <members>Test2</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Trigger1</members>
+        <members>Trigger2</members>
+        <name>ApexTrigger</name>
     </types>
     <types>
         <members>AppSwitcher</members>
