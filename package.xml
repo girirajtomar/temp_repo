@@ -40,6 +40,8 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>ApexTrigger1</members>
+        <members>ApexTrigger2</members>
         <members>Trigger1</members>
         <members>Trigger2</members>
         <name>ApexTrigger</name>
