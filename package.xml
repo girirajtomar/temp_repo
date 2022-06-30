@@ -76,7 +76,6 @@
         <members>standard__Commerce</members>
         <members>standard__Community</members>
         <members>standard__Content</members>
-        <members>standard__DataManager</members>
         <members>standard__Insights</members>
         <members>standard__LightningBolt</members>
         <members>standard__LightningInstrumentation</members>
@@ -434,7 +433,6 @@
     </types>
     <types>
         <members>EinsteinBotReports</members>
-        <members>EinsteinBotReports_v2</members>
         <members>unfiled$public/flow_screen_prebuilt_report</members>
         <name>Report</name>
     </types>
